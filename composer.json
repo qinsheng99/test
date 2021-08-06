@@ -14,8 +14,14 @@
             "Mysql\\Dict\\": "src/"
         }
     },
-    "packagist": {
-        "type": "composer",
-        "url": "https://mirrors.aliyun.com/composer"
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer"
+        },
+        "proprietary": {
+            "type": "composer",
+            "url": "https://packagist.org/packages/zhaojiaming/composer"
+        }
     }
 }
