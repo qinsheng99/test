@@ -1,0 +1,17 @@
+{
+    "name": "zhaojiaming/composer",
+    "authors": [
+        {
+            "name": "赵佳铭",
+            "email": "1076115376@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mysql\\Dict\\": "src/"
+        }
+    }
+}
