@@ -13,5 +13,9 @@
         "psr-4": {
             "Mysql\\Dict\\": "src/"
         }
+    },
+    "packagist": {
+        "type": "composer",
+        "url": "https://mirrors.aliyun.com/composer"
     }
 }
