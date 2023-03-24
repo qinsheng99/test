@@ -22,4 +22,9 @@ class test
     {
         return $this;
     }
+    
+    public function A()
+    {
+        return $this->a;
+    }
 }
